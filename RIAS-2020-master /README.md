@@ -3,11 +3,7 @@
 	Необходимо разработать клиент/серверное приложение, в котором сервер может распространять сообщения всем клиентам, зарегистрированным в группе 233.0.0.1, порт 1502. 
 	Пользователь сервера должен иметь возможность ввода и отправки текстовых сообщений, а пользователь-клиент просматривает полученные сообщения. 
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/urazem/RIAS-2020/master/chat.png">
-    <img alt="ScreenShot~ prompt" src="https://raw.githubusercontent.com/urazem/RIAS-2020/master/img/chat.png">
-  </a>
-</p>
+
 
 # Лабораторная работа №2
 
@@ -18,8 +14,3 @@
  
  EchoClient и EchoServer - два отдельных проекта
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/urazem/RIAS-2020/master/screen.png">
-    <img alt="ScreenShot~ prompt" src="https://raw.githubusercontent.com/urazem/RIAS-2020/master/img/screen.png">
-  </a>
-</p>
